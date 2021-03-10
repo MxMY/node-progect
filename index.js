@@ -1,2 +1,2 @@
 
-console.log('高原爱喝酒');
+console.log('高原不爱喝酒');
